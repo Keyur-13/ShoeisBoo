@@ -1,0 +1,52 @@
+/*!
+Theme Name: Nozama Lite
+Theme URI: https://www.cssigniter.com/themes/nozama-lite/
+Author: CSSIgniter
+Author URI: https://www.cssigniter.com/
+Description: Nozama Lite is a beautiful, clean and modern e-commerce theme for WordPress, perfect for technology, furniture, houseware, clothing, shoes, home deco, home appliance, sportswear, beauty product stores and more. Well documented and very easy to use and manage it is ideal for small businesses. It supports WooCommerce and is regularly updated to ensure continuing compatibility. Its responsive design will give your visitors the perfect mobile browsing experience on phones, tablets & retina enabled displays. It is fast and lightweight, coded with best SEO practises in mind, supports RTL languages and is translation ready. It supports custom color schemes, social links, a homepage slideshow, a flexible footer, custom logos and many more. Its built-in product search in the header allows customers to find what they are looking for. It supports the WordPress block editor and is also compatible with the most popular page builders like Elementor, Divi, Brizy and Beaver Builder.
+Version: 1.4.5
+Tested up to: 5.7.2
+Requires PHP: 5.6
+Tags: two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, blog, e-commerce, news
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: nozama-lite
+*/
+
+/* -----------------------------------------
+	Table of Contents
+--------------------------------------------
+
+.. 01. General
+.. 02. Main Navigation
+.. 03. Header
+.. 04. Hero Area
+.. 05. Modules
+.. 06. Footer
+.. 07. Comments
+.. 08. Widgets Styling
+.. 09. WordPress defaults
+.. 10. Mobile Menu
+.. 11. WooCommerce
+.. 12. External Plugins
+.. 13. Utilities
+.. 14. Global Mediaqueries
+*/
+
+@import 'css/inc/variables';
+@import 'css/inc/mixins/grid';
+@import 'css/inc/mixins/mixins';
+@import 'css/inc/ci-base';
+@import 'css/inc/navigation';
+@import 'css/inc/header';
+@import 'css/inc/hero';
+@import 'css/inc/modules';
+@import 'css/inc/footer';
+@import 'css/inc/comments';
+@import 'css/inc/widgets';
+@import 'css/inc/wp-defaults';
+@import 'css/inc/mobile-nav';
+@import 'css/inc/woocommerce';
+@import 'css/inc/external';
+@import 'css/inc/utilities';
+@import 'css/inc/mediaqueries';

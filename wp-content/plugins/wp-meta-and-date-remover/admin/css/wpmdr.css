@@ -1,0 +1,15 @@
+a{
+	box-shadow:0 0 0 0!important;
+}
+.side-btn{
+	width:100%;
+}
+.side-btn:hover{
+	color:white;
+}
+.wpmdr-hover:hover{
+	color:white;
+}
+#wpcontent{
+	padding-left: 0px!important;
+}
